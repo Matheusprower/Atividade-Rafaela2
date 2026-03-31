@@ -12,6 +12,8 @@ Equipe 👥
   </a>
 </td>
 
+
+
 <!-- INTEGRANTE 2: LAURA -->
 <td align="center">
   <a href="https://github.com/lauryz0">
@@ -19,6 +21,9 @@ Equipe 👥
     <sub><b>Laura Freitas</b></sub>
   </a>
 </td>
+
+
+
 
 <!-- INTEGRANTE 3: MATHEUS -->
 <td align="center">
