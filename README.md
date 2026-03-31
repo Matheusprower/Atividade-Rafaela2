@@ -13,7 +13,7 @@ Atividade-Rafaela2
     <td align="center">
       <a href="https://github.com/perfil-amigo-1">
         <img src="C:\Users\lfagu\OneDrive\GitHub" width="100px;" alt="Foto Integrante 2"/><br>
-        <sub><b>Nome Integrante 2</b></sub>
+        <sub><b>Laura Fagundes Freitas – 42413265</b></sub>
       </a>
     </td>
     <td align="center">
