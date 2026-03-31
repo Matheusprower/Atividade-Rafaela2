@@ -1,30 +1,30 @@
 Atividade-Rafaela2
 ## 👥 Equipe
 
-
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/seu-perfil">
-        <img src="C:\Users\lfagu\OneDrive\GitHub" width="100px;" alt="Sua Foto"/><br>
-        <sub><b>Danielly Silva Teixeira – 42415112</b></sub>
+      <a href="https://github.com/USUARIO_DA_DANI">
+        <img src="img.dani/dani.png" width="100px;" alt="Foto Dani"/><br>
+        <sub><b>Dani</b></sub>
       </a>
     </td>
+
     <td align="center">
-      <a href="https://github.com/perfil-amigo-1">
-        <img src="C:\Users\lfagu\OneDrive\GitHub" width="100px;" alt="Foto Integrante 2"/><br>
-        <sub><b>Laura Fagundes Freitas – 42413265</b></sub>
+      <a href="https://github.com/lauryz0">
+        <img src="img.laura/laura.png" width="100px;" alt="Foto Laura"/><br>
+        <sub><b>Laura Fagundes</b></sub>
       </a>
     </td>
+
     <td align="center">
-      <a href="https://github.com/perfil-amigo-2">
-        <img src="C:\Users\lfagu\OneDrive\GitHub" width="100px;" alt="Foto Integrante 3"/><br>
-        <sub><b>Matheus Henrique Santos – 42410613</b></sub>
+      <a href="https://github.com/Matheusprower">
+        <img src="img.matheus/matheus.png" width="100px;" alt="Foto Matheus"/><br>
+        <sub><b>Matheus</b></sub>
       </a>
     </td>
   </tr>
 </table>
-
 
 
 
