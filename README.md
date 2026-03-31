@@ -1,7 +1,7 @@
 Atividade-Rafaela2
 <!-- INTEGRANTE 1:  DANIELLY -->
 <td align="center">
-  <a href="https://github.com/lauryz0">
+  <a href="https://https://github.com/daniellyteixeira872-droid">
     <img src="img.dani/dani.jpeg" width="100px;" alt="foto danielly"/><br>
     <sub><b>Danielly Silva Teixeira – 42415112 </b></sub>
   </a>
