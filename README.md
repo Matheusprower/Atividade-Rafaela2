@@ -24,7 +24,7 @@ Atividade-Rafaela2
     </td>
   </tr>
 </table>
-Integrantes 
+
 
 
 
