@@ -1,4 +1,9 @@
 Atividade-Rafaela2
+
+Equipe 👥
+
+
+
 <!-- INTEGRANTE 1:  DANIELLY -->
 <td align="center">
   <a href="https://https://github.com/daniellyteixeira872-droid">
