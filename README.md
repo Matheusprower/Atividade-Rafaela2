@@ -15,7 +15,7 @@ Conheça os desenvolvedores responsáveis por este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SEU_USER_AQUI">
+      <a href="https://github.com/lauryz0>
         <img src="https://github.com/SEU_USER_AQUI.png" width="100px;" alt="Foto Laura"/><br>
         <sub><b>Laura Freitas</b></sub>
       </a>
