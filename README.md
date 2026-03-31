@@ -7,7 +7,7 @@ Atividade-Rafaela2
     <td align="center">
       <a href="https://github.com/seu-perfil">
         <img src="C:\Users\lfagu\OneDrive\GitHub" width="100px;" alt="Sua Foto"/><br>
-        <sub><b>Seu Nome</b></sub>
+        <sub><b>Danielly Silva Teixeira – 42415112</b></sub>
       </a>
     </td>
     <td align="center">
@@ -19,7 +19,7 @@ Atividade-Rafaela2
     <td align="center">
       <a href="https://github.com/perfil-amigo-2">
         <img src="C:\Users\lfagu\OneDrive\GitHub" width="100px;" alt="Foto Integrante 3"/><br>
-        <sub><b>Nome Integrante 3</b></sub>
+        <sub><b>Matheus Henrique Santos – 42410613</b></sub>
       </a>
     </td>
   </tr>
