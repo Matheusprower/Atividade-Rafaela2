@@ -23,7 +23,7 @@ Conheça os desenvolvedores responsáveis por este projeto:
     <td align="center">
       <a href="https://github.com/Matheusprower">
         <img src="https://github.com/Matheusprower.png" width="100px;" alt="Foto Matheus"/><br>
-        <sub><b>Matheus Prower</b></sub>
+        <sub><b>Matheus</b></sub>
       </a>
     </td>
   </tr>
