@@ -9,8 +9,8 @@ Conheça os desenvolvedores responsáveis por este projeto:
 <table style="width: 100%; text-align: center;">
   <tr>
     <td align="center">
-      <a href="https://github.com/SEU_USER_AQUI">
-        <img src="https://github.com/SEU_USER_AQUI.png" width="100px;" alt="Foto Danielly"/><br>
+      <a href="https://github.com/daniellyteixeira872-droid">
+        <img src="https://github.com/daniellyteixeira872-droid.png" width="100px;" alt="Foto Danielly"/><br>
         <sub><b>Danielly Silva</b></sub>
       </a>
     </td>
